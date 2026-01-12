@@ -1,10 +1,10 @@
-# `xdg-terminal-exec-nautilus`
+# xdg-terminal-exec-nautilus
 
 Loadable [nautilus-python](https://wiki.gnome.org/Projects/NautilusPython) extension for [xdg-terminal-exec](https://github.com/Vladimir-csp/xdg-terminal-exec)
 
 This adds an option on Nautilus that allows you to open a certain directory with the the xdg-terminal-exec tool, allowing for any arbitrary terminal to be used.
 
-<!-- screenshot with alt text -->
+<img width="286" height="335" alt="image" src="https://github.com/user-attachments/assets/3f48d93f-e4a5-4f91-a1b8-23c85bf13acc" alt="Nautilus context menu showing Open in Terminal option"/>
 
 ## Installation
 
